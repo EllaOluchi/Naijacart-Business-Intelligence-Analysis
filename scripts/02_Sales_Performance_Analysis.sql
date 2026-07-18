@@ -64,3 +64,43 @@ LEFT JOIN Products AS p
 GROUP BY c.State
 ORDER BY Revenue DESC;
 ```
+## Month-over-Month Revenue Growth
+
+### Business Question
+
+How did monthly revenue change compared to the previous month?
+
+### SQL Query
+
+```sql
+WITH CurrentSales AS
+(
+    SELECT
+        DATEPART(MONTH, o.OrderDate) AS [Month],
+        SUM(CAST(p.Price AS BIGINT) * o.Quantity) AS Current_Month_Revenue
+    FROM Products AS p
+    LEFT JOIN Orders AS o
+        ON p.ProductID = o.ProductID
+    GROUP BY DATEPART(MONTH, o.OrderDate)
+),
+
+LaggedSales AS
+(
+    SELECT
+        [Month],
+        Current_Month_Revenue,
+        LAG(Current_Month_Revenue, 1)
+            OVER (ORDER BY [Month]) AS Previous_Month_Revenue
+    FROM CurrentSales
+)
+
+SELECT
+    [Month],
+    Current_Month_Revenue,
+    ISNULL(Previous_Month_Revenue, 0) AS Previous_Month_Revenue,
+    ((Current_Month_Revenue - Previous_Month_Revenue) * 100.0 / Previous_Month_Revenue) AS MoM_Growth_Percentage
+FROM LaggedSales
+ORDER BY [Month];
+```
+
+> **Note:** `LAG()` retrieves the previous month's revenue, enabling the calculation of Month-over-Month (MoM) revenue growth.
