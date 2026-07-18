@@ -1,0 +1,71 @@
+ProductID,ProductName,Category,Price,Cost,StockQuantity
+P01,iPhone 14,Electronics,263748,155596,284
+P02,Samsung Galaxy S23,Electronics,408527,242552,327
+P03,Infinix Smart Phone,Electronics,232197,152143,274
+P04,HP Pavilion Laptop,Electronics,384217,271091,209
+P05,Dell Inspiron Laptop,Electronics,246399,149641,314
+P06,Bluetooth Speaker,Electronics,357537,216428,495
+P07,Wireless Mouse,Electronics,8441,5933,278
+P08,Mechanical Keyboard,Electronics,123204,65259,201
+P09,Smart Watch,Electronics,265620,164755,297
+P10,Tablet Device,Electronics,303970,166048,106
+P11,External Hard Drive,Electronics,223843,144605,235
+P12,WiFi Router,Electronics,405300,278595,310
+P13,Printer,Electronics,182977,129451,392
+P14,Scanner,Electronics,430759,227299,195
+P15,Nike Running Shoes,Fashion,169764,103555,48
+P16,Adidas Sneakers,Fashion,436077,258676,99
+P17,Leather Handbag,Fashion,60939,42460,160
+P18,Men's Hoodie,Fashion,364699,219915,488
+P19,Women's Jeans,Fashion,269799,206785,225
+P20,Sports Cap,Fashion,333878,182604,158
+P21,Casual T-Shirt,Fashion,430904,281587,268
+P22,Denim Jacket,Fashion,101622,63379,40
+P23,Leather Belt,Fashion,333352,223174,64
+P24,Summer Dress,Fashion,188170,126254,333
+P25,Men's Sneakers,Fashion,336715,241377,364
+P26,Women's Sandals,Fashion,218701,110054,11
+P27,Travel Backpack,Fashion,163820,116835,293
+P28,Sunglasses,Fashion,5051,3915,213
+P29,Air Fryer,Home Appliances,444533,235402,17
+P30,Microwave Oven,Home Appliances,353280,179769,99
+P31,Electric Kettle,Home Appliances,264022,192918,300
+P32,Blender,Home Appliances,142470,108468,468
+P33,Standing Fan,Home Appliances,281653,184285,83
+P34,Rice Cooker,Home Appliances,304186,170211,318
+P35,Gas Stove,Home Appliances,66701,36259,275
+P36,Electric Iron,Home Appliances,401194,261918,24
+P37,Vacuum Cleaner,Home Appliances,55483,29008,495
+P38,Water Dispenser,Home Appliances,276937,179213,249
+P39,Refrigerator,Home Appliances,324390,204101,419
+P40,LED Television,Home Appliances,35566,24719,360
+P41,Washing Machine,Home Appliances,407006,274180,83
+P42,Air Conditioner,Home Appliances,378105,216079,151
+P43,50kg Rice Bag,Groceries,91822,46817,331
+P44,Vegetable Oil 5L,Groceries,55143,41787,495
+P45,Indomie Noodles Pack,Groceries,308271,159963,108
+P46,Cornflakes Cereal,Groceries,238844,164133,20
+P47,Powdered Milk,Groceries,31667,17923,212
+P48,Canned Tomatoes,Groceries,308482,224950,32
+P49,Peanut Butter,Groceries,233498,120572,132
+P50,Spaghetti Pasta,Groceries,133720,75801,91
+P51,Sugar 1kg,Groceries,310755,235059,171
+P52,Salt Pack,Groceries,6231,4795,427
+P53,Chocolate Biscuits,Groceries,241783,142918,318
+P54,Ground Coffee,Groceries,135103,106462,263
+P55,Green Tea Pack,Groceries,38403,22000,209
+P56,Bottled Water Pack,Groceries,356847,255338,123
+P57,Football,Sports,219790,130279,458
+P58,Basketball,Sports,376174,242751,415
+P59,Tennis Racket,Sports,130606,68730,97
+P60,Yoga Mat,Sports,190902,117157,13
+P61,Dumbbells,Sports,155410,96168,195
+P62,Skipping Rope,Sports,63233,37971,456
+P63,Protein Shaker,Sports,205164,123255,343
+P64,Gym Gloves,Sports,37313,29416,226
+P65,Camping Tent,Sports,435970,337396,293
+P66,Hiking Backpack,Sports,131417,80980,249
+P67,Sleeping Bag,Sports,151681,91515,233
+P68,Exercise Bike,Sports,21305,12436,22
+P69,Treadmill,Sports,182002,134947,133
+P70,Resistance Bands,Sports,373079,201074,110
