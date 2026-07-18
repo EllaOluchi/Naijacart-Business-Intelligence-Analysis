@@ -99,7 +99,8 @@ Business Questions
 - How many customers, products and orders exist?
 - What is the overall revenue generated?
 
-📷 **Insert Snapshot**
+📷 **<img width="353" height="344" alt="image" src="https://github.com/user-attachments/assets/67685164-0a88-4480-bd73-1eeca56c14de" />
+**
 EDA Queries
 
 ---
