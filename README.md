@@ -113,10 +113,8 @@ A detailed business report containing the complete methodology, analysis, findin
 
 ## Author
 
-**Your Name**
+**Emmanuella Nwobu**
 
-Data Analyst | Business Intelligence Analyst
+Data Analyst | Operations Specialist
 
-GitHub: *Your GitHub Profile*
 
-LinkedIn: *Your LinkedIn Profile*
