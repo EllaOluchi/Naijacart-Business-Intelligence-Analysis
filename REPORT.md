@@ -7,8 +7,6 @@
 
 **Tools Used:** SQL Server (SSMS)
 
-**Report Date:** *Insert Date*
-
 ---
 
 # Executive Summary
@@ -89,7 +87,8 @@ Monthly analysis identified December as the strongest sales month by order volum
 Regional analysis showed **Niger State** generated the highest revenue of **₦247,608,341**, highlighting the state as the company's strongest performing market during the year.
 
 📷 **INSERT SNAPSHOT**
-Monthly Revenue Analysis
+<img width="1392" height="782" alt="Total Revenue and Total Orders per month" src="https://github.com/user-attachments/assets/b93608d1-fa6e-48d5-9f55-c85d8af849d6" />
+
 
 📷 **INSERT SNAPSHOT**
 Revenue by State
