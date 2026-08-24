@@ -88,6 +88,7 @@ Regional analysis showed **Niger State** generated the highest revenue of **₦2
 
 <img width="1392" height="782" alt="Total Revenue and Total Orders per month" src="https://github.com/user-attachments/assets/b93608d1-fa6e-48d5-9f55-c85d8af849d6" />
 
+
 <img width="891" height="733" alt="Total Revenue per top 10 states" src="https://github.com/user-attachments/assets/432feddb-f8c0-414c-959a-9c0c710b0350" />
 
 ---
@@ -107,7 +108,9 @@ The company's top five products contributed only **14.72%** of total revenue, in
 
 <img width="1078" height="746" alt="Top 10 products by Revenue" src="https://github.com/user-attachments/assets/5d3674ad-8943-4f09-ba09-776331067e10" />
 
+
 <img width="826" height="735" alt="Top 10 products by units sold" src="https://github.com/user-attachments/assets/78576754-2eab-4ff2-8732-cf74f0934683" />
+
 
 <img width="684" height="782" alt="Product Category Performance" src="https://github.com/user-attachments/assets/37f6dbad-952d-45b1-bdab-f52ed7858c37" />
 
@@ -127,6 +130,7 @@ The analysis suggests that customer revenue is concentrated among a relatively s
 
 <img width="1237" height="588" alt="Customers by Total Revenue" src="https://github.com/user-attachments/assets/a07b74d0-d9ca-4b8c-ac1b-71734394b062" />
 
+
 <img width="1444" height="231" alt="Customers with more than 6 months purchase" src="https://github.com/user-attachments/assets/c2a2b1ab-fa40-4e6e-a84d-2223f89965d3" />
 
 ---
@@ -141,6 +145,7 @@ Despite the programme's contribution to total revenue, referred customers genera
 
 <img width="871" height="505" alt="Total Referral Revenue" src="https://github.com/user-attachments/assets/3351e725-18e0-4588-b1f2-955cbd589eb9" />
 
+
 <img width="1141" height="734" alt="Top Referrers" src="https://github.com/user-attachments/assets/73e05c18-bcce-4a37-9c26-68016e7d8786" />
 
 ---
@@ -153,7 +158,9 @@ Approximately **78.67%** of purchasing customers used more than one payment meth
 
 <img width="775" height="681" alt="Payment Method by their total revenue" src="https://github.com/user-attachments/assets/e38bc961-1ab3-4ce3-a9eb-801c19683efe" />
 
+
 <img width="645" height="637" alt="Payment method by their total orders" src="https://github.com/user-attachments/assets/d7aa613d-b747-44a5-a8fc-67a02d04c6d1" />
+
 
 <img width="1225" height="517" alt="Customers that transacted with more than one payment method " src="https://github.com/user-attachments/assets/1cdf78ad-8553-453e-8ca7-833c764f952d" />
 
@@ -171,6 +178,7 @@ Delivery duration remained consistently between four and five days across all se
 Although consistent delivery times may indicate standardized operational procedures, the absence of variation raises questions regarding delivery policies, warehouse distribution, or logistics practices. Additionally, undelivered orders that remained unresolved for extended periods require further investigation to determine whether stock shortages, payment verification issues, or logistics constraints contributed to non-fulfilment.
 
 <img width="851" height="824" alt="Delivered vs Undelivered Items in 2025" src="https://github.com/user-attachments/assets/2abd6394-ee68-44b4-b24e-ee69e87720e3" />
+
 
 <img width="1675" height="694" alt="Avg Shipping Delay per Month" src="https://github.com/user-attachments/assets/902dbaf0-51cb-4a64-bf95-945cd2568f36" />
 
