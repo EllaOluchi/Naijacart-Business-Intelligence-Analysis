@@ -96,11 +96,9 @@ naijacart-business-intelligence-analysis/
 │     ├── 06_Payment_Analysis.sql
 │     └── 07_Operational_Analysis.sql
 │
-│── Images/
 │
 │── README.md
 │── report.md
-└── LICENSE
 ```
 
 ---
