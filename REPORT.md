@@ -1,7 +1,7 @@
 # NaijaCart Business Intelligence Report
 ## 2025 Sales Performance Review & Strategic Recommendations
 
-**Prepared By:** *Emmanuella Nwobu*
+**Prepared By:** Emmanuella Nwobu
 
 **Role:** Data Analyst 
 
@@ -134,7 +134,7 @@ The analysis suggests that customer revenue is concentrated among a relatively s
 <img width="1237" height="588" alt="Customers by Total Revenue" src="https://github.com/user-attachments/assets/a07b74d0-d9ca-4b8c-ac1b-71734394b062" />
 
 **Customers with more than 6 months purchase**
-<img width="1444" height="231" alt="Customers with more than 6 months purchase" src="https://github.com/user-attachments/assets/c2a2b1ab-fa40-4e6e-a84d-2223f89965d3" />
+<img width="786" height="510" alt="Customers with more than 6 months purchase" src="https://github.com/user-attachments/assets/b0540144-7807-474f-9163-913566c07a4f" />
 
 ---
 
