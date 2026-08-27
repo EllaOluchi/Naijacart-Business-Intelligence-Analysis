@@ -82,7 +82,7 @@ Advanced SQL techniques including Common Table Expressions (CTEs), Window Functi
 
 The company generated total revenue of **₦2,814,692,886** during 2025.
 
-Monthly analysis identified December as the strongest sales month by order volume, recording **1,100 units sold**, suggesting increased customer demand during the festive period.
+Monthly analysis identified December and July as the strongest sales month by order volume, recording **351 units sold**, suggesting increased customer demand during the festive period.
 
 Regional analysis showed **Niger State** generated the highest revenue of **₦247,608,341**, highlighting the state as the company's strongest performing market during the year.
 
